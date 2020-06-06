@@ -50,7 +50,7 @@
     
 
 
- check out a live demo of the project here react-registration-login-form.surge.sh
+ check out a live demo of the project here http://react-registration-login-form.surge.sh
 <h2 align="center">Features</h2>
 
 
